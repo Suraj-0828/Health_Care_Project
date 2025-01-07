@@ -65,7 +65,7 @@
       <!-- breadcrumb-area-end -->
 
       <!-- sercices-area-start -->
-      <section class="services-area pt-70 pb-70">
+      <section class="services-area pt-50 pb-40">
          <div class="container">
             <div class="row">
                <div class="col-lg-4">
@@ -84,7 +84,7 @@
                         <h4 class="tp-services-details-contact-title">Looking for <br> help from Health Care Provider?</h4>
                         <div class="tp-services-details-contact-phone">
                            <span>Call anytime</span>
-                           <a href="tel:+917450268531">+91-7450268531</a>
+                           <a href="tel:+02087555844">+02087555844</a>
                         </div>
                      </div>
                   </div>
@@ -92,9 +92,9 @@
                <div class="col-lg-8">
                   <div class="tp-services-details-wrapper">
                      <div class="tp-services-details-main-thumb mb-30 w-img">
-                        <img src="assets/img/about/imagesaa/disable-care/779x473.jpg" alt="">
+                        <img src="assets/img/last-update/ourservicedisablecare/disable-care-1.jpg" alt="">
                      </div>
-                     <h4 class="tp-services-details-title mb-20">Disability Care Services</h4>
+                     <h4 class="tp-services-details-title mb-20 mt-4">Disability Care Services</h4>
                      <p>At DCS, we are dedicated to providing high-quality Disability Care Services that are customized to meet the unique needs of individuals with disabilities. Our goal is to support each individual in achieving independence, improving their quality of life, and ensuring they feel valued and respected every day.
                      </p>
                      <h4 class="tp-services-details-title-two mt-35 mb-15">Our Services for Disability Care :</h4>
@@ -119,22 +119,22 @@
                         <div class="row">
                            <div class="col-lg-7 col-md-6">
                               <div class="tp-services-details-gallery-thum mb-30">
-                                 <img src="assets/img/about/imagesaa/disable-care/472x218.jpg" alt="">
+                                 <img src="assets/img/last-update/ourservicedisablecare/disable-care-2.jpg" alt="">
                               </div>
                            </div>
                            <div class="col-lg-5 col-md-6">
                               <div class="tp-services-details-gallery-thum mb-30">
-                                 <img src="assets/img/about/imagesaa/disable-care/274x218.jpg" alt="">
+                                 <img src="assets/img/last-update/ourservicedisablecare/disable-care-3.jpg" alt="">
                               </div>
                            </div>
                            <div class="col-lg-5 col-md-6">
                               <div class="tp-services-details-gallery-thum-2 mb-30">
-                                 <img src="assets/img/about/imagesaa/disable-care/273x273.jpg" alt="">
+                                 <img src="assets/img/last-update/ourservicedisablecare/disable-care-4.jpg" alt="">
                               </div>
                            </div>
                            <div class="col-lg-7 col-md-6">
                               <div class="tp-services-details-gallery-thum-2 mb-30">
-                                 <img src="assets/img/about/imagesaa/disable-care/474x273.jpg" alt="">
+                                 <img src="assets/img/last-update/ourservicedisablecare/disable-care-5.jpg" alt="">
                               </div>
                            </div>
                         </div>

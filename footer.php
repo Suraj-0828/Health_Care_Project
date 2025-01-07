@@ -1,6 +1,6 @@
 <!-- footer-area-start -->
 <footer>
-    <div class="footr-area theme-bg-hai pt-25">
+    <div class="footr-area theme-bg-hai pt-1">
         <div class="footer-top mt-40">
             <div class="container">
                 <div class="row">
@@ -30,7 +30,7 @@
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="tp-footer-widget tp-footer-2-col-2 mb-65 pt-65">
-                            <h4 class="tp-footer-widget-title mb-30">Quick Link</h4>
+                            <h4 class="tp-footer-widget-title mb-30 mb-3">Quick Link</h4>
                             <div class="tp-footer-widget-link">
                                 <ul>
                                     <li><a href="https://democareservices.co.uk/">Home</a></li>
@@ -43,7 +43,7 @@
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="tp-footer-widget tp-footer-2-col-3 mb-65 pt-65">
-                            <h4 class="tp-footer-widget-title mb-30">Our Services</h4>
+                            <h4 class="tp-footer-widget-title mb-30 mb-3">Our Services</h4>
                             <div class="tp-footer-widget-link">
                                 <ul>
                                     <li><a href="children-care.php">Children Care</a></li>
@@ -55,20 +55,23 @@
                     </div>
                     <div class="col-lg-3 col-md-6">
                         <div class="tp-footer-widget tp-footer-2-col-1 mb-65 pt-65">
-                            <h4 class="tp-footer-widget-title mb-30">Contact Info</h4>
+                            <h4 class="tp-footer-widget-title mb-30 mb-3">Contact Info</h4>
                             <div class="tp-footer-widget-content">
                                 <div class="tp-footer-widget-content-list">
                                     <div class="tp-footer-widget-content-list-item d-flex align-items-start mb-15">
-                                        <i class="fa-solid fa-location-dot"></i> <a href="javascript:void(0)">Suit No. 104, Legacy Centre, Hanworth Trading Estate, Hampton Road West, Feltham, TW13 6DH</a>
+                                        <i class="fa-solid fa-location-dot"></i> <a href="javascript:void(0)">Suit No 104, Legacy Centre, Hanworth Trading Estate, Hampton Road West, Feltham, TW13 6DH.</a>
                                     </div>
                                     <div class="tp-footer-widget-content-list-item d-flex align-items-start mb-15">
                                         <i class="fa-solid fa-envelope"></i> <a href="mailto:info@democareservices.co.uk">info@democareservices.co.uk</a>
                                     </div>
                                     <div class="tp-footer-widget-content-list-item d-flex align-items-start mb-15">
-                                        <i class="fa-solid fa-phone"></i> <a href="tel:+02087555844"> +02087555844 </a>
+                                        <i class="fa-solid fa-phone"></i> <a href="tel:02087555844"> +02087555844 </a>
+                                    </div>
+                                    <div class="tp-footer-widget-content-list-item d-flex align-items-start mb-15">
+                                        <i class="fa-solid fa-phone"></i> <a href="tel:+07450268531"> +07450268531 </a>
                                     </div>
                                     <div class="tp-footer-widget-content-list-item d-flex align-items-start">
-                                        <i class="fa-solid fa-phone"></i> <a href="tel:+07450268531"> +07450268531 </a>
+                                        <i class="fa-solid fa-phone"></i> <a href="tel:+07453298381"> +07453298381 </a>
                                     </div>
                                 </div>
                             </div>

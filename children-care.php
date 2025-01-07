@@ -65,7 +65,7 @@
       <!-- breadcrumb-area-end -->
 
       <!-- sercices-area-start -->
-      <section class="services-area pt-70 pb-70">
+      <section class="services-area pt-50 pb-40">
          <div class="container">
             <div class="row">
                <div class="col-lg-4">
@@ -84,7 +84,7 @@
                         <h4 class="tp-services-details-contact-title">Looking for <br> help from Health Care Provider?</h4>
                         <div class="tp-services-details-contact-phone">
                            <span>Call anytime</span>
-                           <a href="tel:+917450268531">+91-7450268531</a>
+                           <a href="tel:+02087555844">+02087555844</a>
                         </div>
                      </div>
                   </div>
@@ -92,9 +92,9 @@
                <div class="col-lg-8">
                   <div class="tp-services-details-wrapper">
                      <div class="tp-services-details-main-thumb mb-30 w-img">
-                        <img src="assets/img/about/imagesaa/children-care/779x473.jpg" alt="">
+                        <img src="assets/img/last-update/ourservicechildrencare/children-care-1.jpg" alt="">
                      </div>
-                     <h4 class="tp-services-details-title mb-20">Children Care Services</h4>
+                     <h4 class="tp-services-details-title mb-20 mt-4">Children Care Services</h4>
                      <p>At DCS, we believe that every child deserves the best care and attention to grow, thrive, and reach their full potential. Our Children Care Services are designed to provide the nurturing environment children need to feel safe, supported, and happy. Whether your child needs assistance with daily activities, special care, or simply a safe place to play and learn, DCS is here to help.
                      </p>
                      <h4 class="tp-services-details-title-two mt-35 mb-15">Our Services for Children :</h4>
@@ -119,22 +119,22 @@
                         <div class="row">
                            <div class="col-lg-7 col-md-6">
                               <div class="tp-services-details-gallery-thum mb-30">
-                                 <img src="assets/img/about/imagesaa/children-care/472x218.jpg" alt="">
+                                 <img src="assets/img/last-update/ourservicechildrencare/children-care-2.jpg" alt="">
                               </div>
                            </div>
                            <div class="col-lg-5 col-md-6">
                               <div class="tp-services-details-gallery-thum mb-30">
-                                 <img src="assets/img/about/imagesaa/children-care/274×218.jpg" alt="">
+                                 <img src="assets/img/last-update/ourservicechildrencare/children-care-3.jpg" alt="">
                               </div>
                            </div>
                            <div class="col-lg-5 col-md-6">
                               <div class="tp-services-details-gallery-thum-2 mb-30">
-                                 <img src="assets/img/about/imagesaa/children-care/273x273.jpg" alt="">
+                                 <img src="assets/img/last-update/ourservicechildrencare/children-care-4.jpg" alt="">
                               </div>
                            </div>
                            <div class="col-lg-7 col-md-6">
                               <div class="tp-services-details-gallery-thum-2 mb-30">
-                                 <img src="assets/img/about/imagesaa/children-care/474x273.jpg" alt="">
+                                 <img src="assets/img/last-update/ourservicechildrencare/children-care-5.jpg" alt="">
                               </div>
                            </div>
                         </div>

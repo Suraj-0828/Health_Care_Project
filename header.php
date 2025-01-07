@@ -75,7 +75,7 @@ info@democareservices.co.uk">
                                      </ul>
                                  </nav>
                              </div>
-                             <div class="offcanvas-btn d-xl-none mr-30">
+                             <div class="offcanvas-btn d-xl-none ml-30">
                                  <button class="offcanvas-open-btn"><i class="fa-solid fa-bars"></i></button>
                              </div>
                          </div>
@@ -172,7 +172,7 @@ info@democareservices.co.uk">
              </button>
          </div>
          <div class="offcanvas__content">
-             <div class="offcanvas__top mb-70 d-flex justify-content-between align-items-center">
+             <div class="offcanvas__top mb-50 d-flex justify-content-between align-items-center">
                  <div class="offcanvas__logo logo">
                      <a href="index.php">
                          <img class="mobile-logo-fix" src="assets/img/about/dcs-logo.png" alt="logo">
@@ -180,8 +180,8 @@ info@democareservices.co.uk">
                  </div>
              </div>
              <div class="tp-main-menu-mobile"></div>
-             
-             
+
+
              <div class="side-info-social">
                  <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
                  <a href="#"><i class="fa-brands fa-twitter"></i></a>

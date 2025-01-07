@@ -72,24 +72,24 @@
       </div>
 
       <!-- about-area-start -->
-      <section class="about-area tp-about-3 mt-70">
+      <section class="about-area tp-about-3 pt-50">
          <div class="container">
             <div class="row">
                <div class="col-lg-6">
                   <div class="tp-about-2-wrap mb-50">
-                     <div class="tp-about-2-thumb">
-                        <img src="assets/img/about/about-3-thumb-1.jpg" alt="">
+                     <div class="mt-20" style="text-align: center;">
+                        <img src="assets/img/about/sss1.png" width="100%" height="100%" alt="">
                      </div>
 
                   </div>
                </div>
                <div class="col-lg-6">
-                  <div class="tp-about-2-wrapper mt-25 mb-50">
+                  <div class="tp-about-2-wrapper mb-40">
                      <div class="tp-section text-p mb-35">
                         <span><img src="assets/img/shape/section-shape-1.svg" alt=""></span>
                         <h5 class="tp-section-subtitle">Home Care Services</h5>
                         <h3 class="tp-section-title pb-30">Welcome to Democare Services</h3>
-                        <p>We offer a wide range of support services designed to assist people in the comfort of their own homes. Whether you need short-term help or long-term care, our services are tailored to meet individual needs with flexibility and empathy.</p>
+                        <p>We provide wide range of assistance to people in their own home. Whether for short or long-term needs our services are tailored to suit individual situations.</p>
                      </div>
                      <div class="tp-about-list mb-30">
                         <ul>
@@ -116,7 +116,7 @@
       <!-- about-area-end -->
 
       <!-- services-area-start -->
-      <section class="services-area tp-services-3 pt-40 pb-30">
+      <section class="services-area tp-services-3 pb-30">
          <div class="container">
             <div class="row">
                <div class="col-lg-12">
@@ -132,7 +132,7 @@
                   <div class="tp-services-3-item">
                      <div class="tp-services-3-thumb p-relative">
                         <div class="fix p-relative">
-                           <img src="assets/img/home/1.jpg" alt="">
+                           <img src="assets/img/last-update/homepage/children-care.jpg" alt="">
                            <div class="tp-services-3-content">
                               <div class="tp-services-3-icon">
                                  <span><i class="flaticon-wheel-chair"></i></span>
@@ -155,7 +155,7 @@
                   <div class="tp-services-3-item">
                      <div class="tp-services-3-thumb p-relative">
                         <div class="fix p-relative">
-                           <img src="assets/img/home/2.jpg" alt="">
+                           <img src="assets/img/last-update/homepage/elder-care.jpg" alt="">
                            <div class="tp-services-3-content">
                               <div class="tp-services-3-icon">
                                  <span><i class="flaticon-physiotherapy-1"></i></span>
@@ -178,7 +178,7 @@
                   <div class="tp-services-3-item">
                      <div class="tp-services-3-thumb p-relative">
                         <div class="fix p-relative">
-                           <img src="assets/img/services/services-3-thumb-3.jpg" alt="">
+                           <img src="assets/img/last-update/homepage/disabled-care.jpg" alt="">
                            <div class="tp-services-3-content">
                               <div class="tp-services-3-icon">
                                  <span><i class="flaticon-physiotherapy"></i></span>
@@ -205,10 +205,38 @@
       </section>
       <!-- services-area-end -->
 
+
+      <div class="body-services-section">
+         <div class="services-section">
+            <!-- Title and Description -->
+            <div class="services-header">
+               <h2>Our Specialized Care Services</h2>
+               <p>
+                  We are dedicated to providing comprehensive care tailored to the unique needs of individuals of all ages.
+                  Our specialized services ensure the highest level of support for adults, children, and those with specific health conditions.
+               </p>
+            </div>
+
+            <!-- Services List -->
+            <ul class="services-list">
+               <li>Complex care</li>
+               <li>Personal care</li>
+               <li>Caring for adults (18 to 65 years and over)</li>
+               <li>Caring for children (0 - 18 years)</li>
+               <li>Dementia</li>
+               <li>Learning disabilities</li>
+               <li>Mental health conditions</li>
+               <li>Physical disabilities</li>
+               <li>Sensory impairments</li>
+            </ul>
+         </div>
+      </div>
+
+
       <!-- services-area-start -->
-      <section class="services-area tp-services-3-wrap theme-bg pt-70 pb-70 mt-70">
+      <section class="services-area tp-services-3-wrap theme-bg pt-50 pb-50 mt-50">
          <div class="container">
-            <div class="row align-items-center">
+            <div class="row">
                <div class="col-lg-7">
                   <div class="tp-section fs-48 mb-50">
                      <span><img src="assets/img/shape/section-shape-1.svg" alt=""></span>
@@ -222,15 +250,15 @@
                   </div>
                </div>
             </div>
-            <div class="row">
-               <div class="col-xl-3 col-lg-4 col-md-6">
+            <div class="row justify-content-center">
+               <div class="col-lg-3 col-md-4 col-sm-6 col-6">
                   <div class="tp-services-3-item-2 mb-30">
                      <div class="tp-services-3-item-2-icon">
                         <span><img src="assets/img/about/hands.png" /></span>
                      </div>
                      <div class="tp-services-3-item-2-content">
-                        <h4 class="tp-services-3-item-2-title"><a class="text-white-1" href="">Nurturing Support</a></h4>
-                        <p class="text-white-1">Specialized care to ensure the well-being of children.</p>
+                        <h4 class="tp-services-3-item-2-title"><a class="text-white-1" href="">Personal Care</a></h4>
+                        <p class="text-white-1">Assisting with daily personal needs for comfort and dignity.</p>
                      </div>
                      <div class="tp-services-3-item-2-shape">
                         <div class="tp-services-3-item-2-shape-1">
@@ -242,14 +270,14 @@
                      </div>
                   </div>
                </div>
-               <div class="col-xl-3 col-lg-4 col-md-6">
+               <div class="col-lg-3 col-md-4 col-sm-6 col-6">
                   <div class="tp-services-3-item-2 mb-30">
                      <div class="tp-services-3-item-2-icon">
                         <span><img src="assets/img/about/growth.png" /></span>
                      </div>
                      <div class="tp-services-3-item-2-content">
-                        <h4 class="tp-services-3-item-2-title"><a class="text-white-1" href="">Growth & Development</a></h4>
-                        <p class="text-white-1">Focus on supporting physical, emotional, and educational growth.</p>
+                        <h4 class="tp-services-3-item-2-title"><a class="text-white-1" href="">Practical Support</a></h4>
+                        <p class="text-white-1">Helping with everyday tasks to simplify life.</p>
                      </div>
                      <div class="tp-services-3-item-2-shape">
                         <div class="tp-services-3-item-2-shape-1">
@@ -261,14 +289,14 @@
                      </div>
                   </div>
                </div>
-               <div class="col-xl-3 col-lg-4 col-md-6">
+               <div class="col-lg-3 col-md-4 col-sm-6 col-6">
                   <div class="tp-services-3-item-2 mb-30">
                      <div class="tp-services-3-item-2-icon">
                         <span><i class="flaticon-charity"></i></span>
                      </div>
                      <div class="tp-services-3-item-2-content">
-                        <h4 class="tp-services-3-item-2-title"><a class="text-white-1" href="">Safe Environment</a></h4>
-                        <p class="text-white-1"> Ensuring a safe, loving, and structured setting.</p>
+                        <h4 class="tp-services-3-item-2-title"><a class="text-white-1" href="">Convalescent Care</a></h4>
+                        <p class="text-white-1"> Supporting recovery after illness or surgery.</p>
                      </div>
                      <div class="tp-services-3-item-2-shape">
                         <div class="tp-services-3-item-2-shape-1">
@@ -280,14 +308,14 @@
                      </div>
                   </div>
                </div>
-               <div class="col-xl-3 col-lg-4 col-md-6">
+               <div class="col-lg-3 col-md-4 col-sm-6 col-6">
                   <div class="tp-services-3-item-2 mb-30">
                      <div class="tp-services-3-item-2-icon">
                         <span><i class="flaticon-home"></i></span>
                      </div>
                      <div class="tp-services-3-item-2-content">
-                        <h4 class="tp-services-3-item-2-title"><a class="text-white-1" href="">Compassionate Care</a></h4>
-                        <p class="text-white-1">Providing respectful and empathetic support for seniors.</p>
+                        <h4 class="tp-services-3-item-2-title"><a class="text-white-1" href="">Night-time Care</a></h4>
+                        <p class="text-white-1">Providing care and safety during the night.</p>
                      </div>
                      <div class="tp-services-3-item-2-shape">
                         <div class="tp-services-3-item-2-shape-1">
@@ -299,14 +327,14 @@
                      </div>
                   </div>
                </div>
-               <div class="col-xl-3 col-lg-4 col-md-6">
+               <div class="col-lg-3 col-md-4 col-sm-6 col-6">
                   <div class="tp-services-3-item-2 mb-30">
                      <div class="tp-services-3-item-2-icon">
                         <span><i class="flaticon-medical-insurance"></i></span>
                      </div>
                      <div class="tp-services-3-item-2-content">
-                        <h4 class="tp-services-3-item-2-title"><a class="text-white-1" href="">Independence & Comfort</a></h4>
-                        <p class="text-white-1">Promoting independence while ensuring comfort and safety.</p>
+                        <h4 class="tp-services-3-item-2-title"><a class="text-white-1" href="">Breaks for Family</a></h4>
+                        <p class="text-white-1">Offering respite to family caregivers.</p>
                      </div>
                      <div class="tp-services-3-item-2-shape">
                         <div class="tp-services-3-item-2-shape-1">
@@ -318,14 +346,14 @@
                      </div>
                   </div>
                </div>
-               <div class="col-xl-3 col-lg-4 col-md-6">
+               <div class="col-lg-3 col-md-4 col-sm-6 col-6">
                   <div class="tp-services-3-item-2 mb-30">
                      <div class="tp-services-3-item-2-icon">
                         <span><i class="flaticon-nurse"></i></span>
                      </div>
                      <div class="tp-services-3-item-2-content">
-                        <h4 class="tp-services-3-item-2-title"><a class="text-white-1" href="">Personalized Assistance</a></h4>
-                        <p class="text-white-1">Tailored services to meet individual health and lifestyle needs.</p>
+                        <h4 class="tp-services-3-item-2-title"><a class="text-white-1" href="">Carers (Respite)</a></h4>
+                        <p class="text-white-1">Temporary relief for caregivers while ensuring care.</p>
                      </div>
                      <div class="tp-services-3-item-2-shape">
                         <div class="tp-services-3-item-2-shape-1">
@@ -337,14 +365,14 @@
                      </div>
                   </div>
                </div>
-               <div class="col-xl-3 col-lg-4 col-md-6">
+               <div class="col-lg-3 col-md-4 col-sm-6 col-6">
                   <div class="tp-services-3-item-2 mb-30">
                      <div class="tp-services-3-item-2-icon">
                         <span><i class="flaticon-hospice"></i></span>
                      </div>
                      <div class="tp-services-3-item-2-content">
-                        <h4 class="tp-services-3-item-2-title"><a class="text-white-1" href="">In Home respite</a></h4>
-                        <p class="text-white-1">Offering temporary relief for family caregivers with in-home professional care.</p>
+                        <h4 class="tp-services-3-item-2-title"><a class="text-white-1" href="">Children and Families</a></h4>
+                        <p class="text-white-1">Tailored support for children and families.</p>
                      </div>
                      <div class="tp-services-3-item-2-shape">
                         <div class="tp-services-3-item-2-shape-1">
@@ -356,14 +384,72 @@
                      </div>
                   </div>
                </div>
-               <div class="col-xl-3 col-lg-4 col-md-6">
+               <div class="col-lg-3 col-md-4 col-sm-6 col-6">
                   <div class="tp-services-3-item-2 mb-30">
                      <div class="tp-services-3-item-2-icon">
                         <span><i class="flaticon-ambulance"></i></span>
                      </div>
                      <div class="tp-services-3-item-2-content">
-                        <h4 class="tp-services-3-item-2-title"><a class="text-white-1" href="">Transport Helping</a></h4>
-                        <p class="text-white-1">Providing reliable transportation for appointments, errands, and social outings.</p>
+                        <h4 class="tp-services-3-item-2-title"><a class="text-white-1" href="">Special Care</a></h4>
+                        <p class="text-white-1">Addressing unique care needs with expertise.</p>
+                     </div>
+                     <div class="tp-services-3-item-2-shape">
+                        <div class="tp-services-3-item-2-shape-1">
+                           <img src="assets/img/shape/services-3-shape-2.png" alt="">
+                        </div>
+                        <div class="tp-services-3-item-2-shape-2">
+                           <img src="assets/img/shape/services-3-shape-3.png" alt="">
+                        </div>
+                     </div>
+                  </div>
+               </div>
+
+               <div class="col-lg-3 col-md-4 col-sm-6 col-6">
+                  <div class="tp-services-3-item-2 mb-30">
+                     <div class="tp-services-3-item-2-icon">
+                        <span><i class="flaticon-charity"></i></span>
+                     </div>
+                     <div class="tp-services-3-item-2-content">
+                        <h4 class="tp-services-3-item-2-title"><a class="text-white-1" href="">Live-In Care</a></h4>
+                        <p class="text-white-1">Providing 24/7 in-home care for independence.</p>
+                     </div>
+                     <div class="tp-services-3-item-2-shape">
+                        <div class="tp-services-3-item-2-shape-1">
+                           <img src="assets/img/shape/services-3-shape-2.png" alt="">
+                        </div>
+                        <div class="tp-services-3-item-2-shape-2">
+                           <img src="assets/img/shape/services-3-shape-3.png" alt="">
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-lg-3 col-md-4 col-sm-6 col-6">
+                  <div class="tp-services-3-item-2 mb-30">
+                     <div class="tp-services-3-item-2-icon">
+                        <span><i class="flaticon-ambulance"></i></span>
+                     </div>
+                     <div class="tp-services-3-item-2-content">
+                        <h4 class="tp-services-3-item-2-title"><a class="text-white-1" href="">Complex Care</a></h4>
+                        <p class="text-white-1">Managing intricate medical needs with precision.</p>
+                     </div>
+                     <div class="tp-services-3-item-2-shape">
+                        <div class="tp-services-3-item-2-shape-1">
+                           <img src="assets/img/shape/services-3-shape-2.png" alt="">
+                        </div>
+                        <div class="tp-services-3-item-2-shape-2">
+                           <img src="assets/img/shape/services-3-shape-3.png" alt="">
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-lg-3 col-md-4 col-sm-6 col-6">
+                  <div class="tp-services-3-item-2 mb-30">
+                     <div class="tp-services-3-item-2-icon">
+                        <span><i class="flaticon-medical-insurance"></i></span>
+                     </div>
+                     <div class="tp-services-3-item-2-content">
+                        <h4 class="tp-services-3-item-2-title"><a class="text-white-1" href="">Supported Living Services</a></h4>
+                        <p class="text-white-1">Encouraging independence with structured support.</p>
                      </div>
                      <div class="tp-services-3-item-2-shape">
                         <div class="tp-services-3-item-2-shape-1">
@@ -389,7 +475,7 @@
       <!-- services-area-end -->
 
       <!-- processing-area-start -->
-      <section class="processing-area tp-process-3 pt-70 fix">
+      <section class="processing-area tp-process-3 pt-50 fix">
          <div class="container">
             <div class="row">
                <div class="col-lg-12">
@@ -452,7 +538,7 @@
       <!-- processing-area-end -->
 
       <!-- cta-area-start -->
-      <div class="container faq-area my-5 contact-section">
+      <div class="container faq-area contact-section">
          <div class="row justify-content-center">
             <div class="col-lg-12">
                <div class="contact-section text-center text-lg-start">
@@ -580,7 +666,7 @@
       <!-- faq-area-end -->
 
       <!-- counter-area-start -->
-      <!-- <section class="counter-area pb-70">
+      <!-- <section class="counter-area pb-50">
          <div class="container">
             <div class="tp-counter-3-bg" style="background-color: #0DAAE2;">
                <div class="row">
@@ -620,7 +706,7 @@
          <div class="container">
             <div class="row">
                <div class="col-lg-6">
-                  <div class="tp-contact-wrapper mb-60">
+                  <div class="tp-contact-wrapper mb-20">
                      <div class="tp-contact-inner">
                         <h4 class="tp-contact-inner-title">Get in touch</h4>
                         <p>We're here to help! Whether you have questions, need more information, or want to schedule a consultation, our team is ready to assist you. Contact us today and let us provide the care and support you deserve.</p>
@@ -636,12 +722,16 @@
                                  <span>Contact</span>
                                  <a href="tel:+07450268531">+07450268531</a>
                               </div>
+                              <div class="tp-contact-item">
+                                 <span>Contact</span>
+                                 <a href="tel:+07453298381">+07453298381</a>
+                              </div>
 
                            </div>
                            <div class="col-xl-6 col-lg-6 col-md-6">
                               <div class="tp-contact-item ml-15">
                                  <span>Email</span>
-                                 <a href="mailto:info@democareservices.co.uk"> 
+                                 <a href="mailto:info@democareservices.co.uk">
                                     info@democareservices.co.uk</a>
                               </div>
                               <div class="tp-contact-item">

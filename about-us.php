@@ -4,24 +4,24 @@
 
 <head>
    <!-- Title and Discription start -->
-	<meta charset="UTF-8" />
-	<meta http-equiv="x-ua-compatible" content="ie=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
+   <meta charset="UTF-8" />
+   <meta http-equiv="x-ua-compatible" content="ie=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<title>Who We Are – Committed to Your Well-being</title>
+   <title>Who We Are – Committed to Your Well-being</title>
 
-	<meta name="description"
-		content="With a mission to enhance lives, we specialize in personalized healthcare services for children, elders, and people with disabilities. Learn about our journey and dedication to compassionate care.">
-	
-	<meta name="Keywords" content="Here you type your SEO content..... Key like.......">
+   <meta name="description"
+      content="With a mission to enhance lives, we specialize in personalized healthcare services for children, elders, and people with disabilities. Learn about our journey and dedication to compassionate care.">
 
-	<meta name="robots" content="index, follow">
-	<meta name="revisit-after" content="1 day">
-	<meta name="language" content="English">
-	<meta name="generator" content="N/A">
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<meta http-equiv="Pragma" content="no-cache" />
-	<!-- Title and Discription close -->
+   <meta name="Keywords" content="Here you type your SEO content..... Key like.......">
+
+   <meta name="robots" content="index, follow">
+   <meta name="revisit-after" content="1 day">
+   <meta name="language" content="English">
+   <meta name="generator" content="N/A">
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+   <meta http-equiv="Pragma" content="no-cache" />
+   <!-- Title and Discription close -->
 
    <!-- Place favicon.ico in the root directory -->
    <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo/favicon.png">
@@ -66,18 +66,18 @@
       <!-- breadcrumb-area-end -->
 
       <!-- about-area-start -->
-      <section class="about-area mt-70 mb-70">
+      <section class="about-area mt-50 mb-20">
          <div class="container">
             <div class="row">
                <div class="col-lg-6">
-                  <div class="tp-about-2-wrap mb-50">
-                     <div class="tp-about-2-thumb">
-                        <img src="assets/img/about/bndbcv/about-us-1.jpg" alt="">
+                  <div class="tp-about-2-wrap">
+                     <div class="tp-about-2-thumb media-1">
+                        <img src="assets/img/last-update/aboutus/about-us.jpg" width="100%" height="100%" class="media-1" alt="">
                      </div>
                      <div class="tp-about-2-thumb-2">
-                        <img src="assets/img/about/bndbcv/about-us-2.jpg" alt="">
+                        <img src="assets/img/last-update/aboutus/about-us-2.jpg" width="100%" height="100%" alt="">
                      </div>
-                     
+
                   </div>
                </div>
                <div class="col-lg-6">
@@ -86,7 +86,7 @@
                         <span><img src="assets/img/shape/section-shape-1.svg" alt=""></span>
                         <h5 class="tp-section-subtitle">Welcome to -</h5>
                         <h3 class="tp-section-title pb-30">Your Trusted Partner in Healthcare</h3>
-                        <p>At DCS, we specialize in providing compassionate, personalized care to individuals at every stage of life. Whether it's children’s care, elder care, disability support, or home health services, our goal is to ensure comfort, well-being, and independence for all our clients.</p>
+                        <p>DEMOCARE SERVICES is family owned and family run, with strong values of service and a real passion for helping people of all ages succeed in their wish to live independently.</p>
                      </div>
                      <div class="tp-about-list mb-20">
                         <ul>
@@ -98,7 +98,7 @@
                      <div class="tp-about-contact d-flex align-items-center">
                         <div class="tp-about-contact-call mr-60 mb-20">
                            <span><img src="assets/img/icon/phone.svg" alt="phone-icon"></span>
-                           <a href="tel:0123456789">+91-xxxxxxxxxxx</a>
+                           <a href="tel:+917450268531">+91-7450268531</a>
                         </div>
                         <div class="tp-about-btn mb-20">
                            <a class="tp-btn" href="index.php#contact-us">More About Us</a>
@@ -111,36 +111,52 @@
       </section>
       <!-- about-area-end -->
 
-         <div class="main-wrapper margin-top padding-bottom ">
-            <div class="content-box">
-               <h3 class="tp-section-title pb-30">Guiding Principles of Care </h3>
-               <div class="row justify-content-center">
-                  <div class="col-lg-5 col-md-6 col-sm-12 col-12 pb-25">
-                     <div class="role-card">
-                        <img class="role-icon" src="assets/img/about/shared-vision.png" alt="Vision">
-                        <div class="role-title">Vision</div>
-                        <div class="role-count">To be a leader in healthcare services, dedicated to enhancing life quality for all ages. We aim to provide compassionate care that supports dignity, independence, and overall well-being. Our vision is to empower individuals to thrive in a safe and supportive environment.</div>
+
+      <section class="services-area tp-services-2-wrap">
+            <div class="container">
+               <div class="row">
+                  <div class="col-lg-12">
+                     <div class="tp-section text-center mb-40">
+                        <span><img src="assets/img/shape/section-shape-1.svg" alt=""></span>
+                        
+                        <h3 class="tp-section-title">Guiding Principles of Care</h3>
                      </div>
                   </div>
-                  <div class="col-lg-5 col-md-6 col-sm-12 col-12 pb-25">
-                     <div class="role-card">
-                        <img class="role-icon" src="assets/img/about/targeting.png" alt="Mission">
-                        <div class="role-title">Mission</div>
-                        <div class="role-count">Our mission is to deliver personalized, high-quality care tailored to each person’s unique needs. We focus on fostering health, comfort, and independence within the comfort of home. Through empathy and expertise, we strive to make a positive difference in every life we touch.</div>
+               </div>
+               <div class="row">
+                  <div class="col-lg-6 col-md-6">
+                     <div class="tp-services-2">
+                        <div class="tp-services-2-thumb p-relative">
+                           <img src="assets/img/about/vision100.jpg" alt="">
+                        </div>
+                        <div class="tp-services-2-content">
+                           <h4 class="tp-services-2-title"><a href="service-details.html">Vision</a></h4>
+                           <p>To be a trusted leader in care and support services, known for our commitment to excellence, compassion, and personalized solutions that meet the unique needs of each client.</p>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-lg-6 col-md-6">
+                     <div class="tp-services-2">
+                        <div class="tp-services-2-thumb p-relative">
+                           <img src="assets/img/about/mission100.jpg" alt="">
+                        </div>
+                        <div class="tp-services-2-content">
+                           <h4 class="tp-services-2-title"><a href="service-details.html">Mission</a></h4>
+                           <p>Our mission is to deliver care and support with the dedication we would expect for our own families. We strive to inspire our team to provide exceptional and reliable services every day.</p>
+                        </div>
                      </div>
                   </div>
                </div>
             </div>
-         </div>
-
+         </section>
 
       <!-- team-details-area-start -->
-      <section class="team-details-area mt-70">
+      <section class="team-details-area mt-50 mb-20">
          <div class="container">
             <div class="row align-items-center">
-               <div class="col-lg-5">
-                  <div class="tp-team-details-thumb mb-50">
-                     <img src="assets/img/about/474x544.jpg" alt="">
+               <div class="col-lg-6">
+                  <div class="tp-team-details-thumb mb-40">
+                     <img src="assets/img/last-update/aboutus/about-us-3.jpg" alt="">
                   </div>
                </div>
                <div class="col-lg-6">
@@ -169,7 +185,7 @@
 
 
       <!-- testimonial-area-start -->
-      <section class="testimonial-area tp-testimonial-about-wrap pt-70 pb-30">
+      <!-- <section class="testimonial-area tp-testimonial-about-wrap pt-50 pb-30">
          <div class="tp-testimonial-about-bg"></div>
          <div class="container">
             <div class="row">
@@ -328,7 +344,7 @@
                </div>
             </div>
          </div>
-      </section>
+      </section> -->
       <!-- testimonial-area-end -->
 
    </main>
